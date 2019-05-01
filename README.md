@@ -1,0 +1,2 @@
+# 1.-Database-developing-and-management-of-car-dealership-business
+Designed an end to end Database system using Toad Modeler, included functionality to insert, update, delete records with required constraints and extract insurance information of individual, Customized SQL queries to extract required information and generated reports using Microsoft SQL Sever, Used the reports to suggest the solution to increase the sales of cars and the services
